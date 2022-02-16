@@ -1,0 +1,29 @@
+{
+    "LevelGeneration": {
+        "checkpoints": [
+            {
+                "steps": 11066,
+                "file_path": "results\\LevelGen_SAC_RS_001--force\\LevelGeneration\\LevelGeneration-11066.onnx",
+                "reward": -0.6499999910593033,
+                "creation_time": 1641924157.9680574,
+                "auxillary_file_paths": [
+                    "results\\LevelGen_SAC_RS_001--force\\LevelGeneration\\LevelGeneration-11066.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11066,
+            "file_path": "results\\LevelGen_SAC_RS_001--force\\LevelGeneration.onnx",
+            "reward": -0.6499999910593033,
+            "creation_time": 1641924157.9680574,
+            "auxillary_file_paths": [
+                "results\\LevelGen_SAC_RS_001--force\\LevelGeneration\\LevelGeneration-11066.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

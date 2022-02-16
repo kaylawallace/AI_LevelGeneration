@@ -1,0 +1,38 @@
+{
+    "LevelGeneration": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\LevelGen_PPO_NRS_001\\LevelGeneration\\LevelGeneration-499999.onnx",
+                "reward": -0.7006369307795401,
+                "creation_time": 1641938919.2147274,
+                "auxillary_file_paths": [
+                    "results\\LevelGen_PPO_NRS_001\\LevelGeneration\\LevelGeneration-499999.pt"
+                ]
+            },
+            {
+                "steps": 538617,
+                "file_path": "results\\LevelGen_PPO_NRS_001\\LevelGeneration\\LevelGeneration-538617.onnx",
+                "reward": -0.699999988079071,
+                "creation_time": 1641939155.1392865,
+                "auxillary_file_paths": [
+                    "results\\LevelGen_PPO_NRS_001\\LevelGeneration\\LevelGeneration-538617.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 538617,
+            "file_path": "results\\LevelGen_PPO_NRS_001\\LevelGeneration.onnx",
+            "reward": -0.699999988079071,
+            "creation_time": 1641939155.1392865,
+            "auxillary_file_paths": [
+                "results\\LevelGen_PPO_NRS_001\\LevelGeneration\\LevelGeneration-538617.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
